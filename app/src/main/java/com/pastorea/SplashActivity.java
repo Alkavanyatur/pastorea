@@ -8,9 +8,9 @@ import android.os.Handler;
 public class SplashActivity extends Activity {
 
     /** Duración del splash**/
-    private final int SPLASH_DISPLAY_LENGTH = 1000;
+    private final int SPLASH_DISPLAY_LENGTH = 1500;
 
-    /** Llama al main activity despus de la actividad. */
+    /** Llama al main activity despues de la actividad. */
     @Override
     public void onCreate(Bundle icicle) {
         super.onCreate(icicle);
