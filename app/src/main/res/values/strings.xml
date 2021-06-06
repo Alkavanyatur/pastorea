@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Pastorea</string>
     <string name="pastoreaWelcome">pastorea.es</string>
+    <string name="loginPastorea">Login con pastorea</string>
+    <string name="hazLogin1">Accede a tu cuenta</string>
+    <string name="hazLogin2">de pastorea</string>
+    <string name="loginClientId">313949621222-odme872e20thpeb9ob8qlo0smnjot6go.apps.googleusercontent.com</string>
+
 </resources>
